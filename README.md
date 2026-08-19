@@ -10,6 +10,8 @@ Extract structured data from unstructured documents using Azure AI Foundry Conte
 
 Includes infrastructure-as-code (Bicep + Terraform), a 2-minute quickstart demo, and progressive walkthrough scripts.
 
+> **Live demo:** [Open Azure AI Foundry Content Understanding](https://ab3y.github.io/AIFondry-ContentUnderstanding/)
+
 [Quickstart](#-quick-start) | [Deploy Infrastructure](#-deploy-infrastructure) | [Demo Walkthrough](#-demo-walkthrough) | [Documentation](#-microsoft-learn-documentation)
 
 </div>
